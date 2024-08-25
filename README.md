@@ -1,19 +1,19 @@
 📝 Survey Form
+
 🌟 Overview
-This project is a basic survey form created as part of a learning exercise. It utilizes HTML and CSS to build a simple, responsive form. Through this project, I’ve learned essential skills in web design and form validation.
+A basic survey form built with HTML and CSS, designed to be responsive. I’ve picked up essential web design and form validation skills through this project.
 
 🚀 Features
-📱 Responsive Design: The form adjusts to look great on both mobile and desktop devices.
-✅ Basic HTML Form Validation: Ensures that user input is checked for correctness.
+📱 Responsive Design: Looks great on both mobile and desktop.
+✅ HTML Form Validation: Basic checks for user input accuracy.
+
 🌐 Live Demo
-You can view the live version of the form at (https://wiidevyousef.github.io/Survery_Form_training).
+Check out the live form at https://wiidevyousef.github.io/Survery_Form_training/.
 
 🛠️ What I Learned
-HTML and CSS Fundamentals: Gained experience in structuring and styling web forms.
-Responsive Design Principles: Understood how to make designs work across various screen sizes.
-Form Validation: Implemented basic validation techniques to improve user input accuracy.
+
+HTML/CSS: Fundamentals of structuring and styling forms.
+Responsive Design: Making designs work on various screen sizes.
+Form Validation: Implementing basic validation techniques.
 🔜 Next Steps
-I’m excited to move on to my next project to continue learning and exploring new web development skills. Stay tuned for more updates!
-
-
-
+Moving on to new projects to continue growing and exploring web development.
