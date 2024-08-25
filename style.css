@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url(my_img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+ 
+  
+  /* Container */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    
+    }
+  #survey-form{
+    box-shadow: 10px 10px 5px rgb(133, 133, 133);
+
+  }
+  /* Header */
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #title {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2em;
+    padding: 1rem;
+   
+  }
+  
+  #description {
+    font-size: 1.2em;
+    color: #666;
+  }
+  
+  /* Form */
+  form {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  form label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+  }
+  
+  form input[type="text"],
+  form input[type="email"],
+  form input[type="number"],
+  form select,
+  form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border:none;
+    border-radius: 9px;
+  }
+  
+  form textarea {
+    height: 100px;
+    resize: vertical;
+  }
+  
+  form input[type="radio"],
+  form input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  #submit{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+
+  }
+
+  form button:hover {
+    background-color: #05075f;
+
+  }
+  :placeholder-shown{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+  }
+  #dropdown{
+    font-family: "Edu VIC WA NT Beginner", cursive;
+  }
+ input{
+  border: none;
+ }
+  
+
+  
+  /* Responsive Design */
+  @media (max-width: 600px) {
+    .container {
+      padding: 10px;
+    }
+  
+    form input,
+    form select,
+    form textarea {
+      font-size: 1em;
+    }
+  
+    form button {
+      font-size: 1em;
+    }
+  }
+
+ 
